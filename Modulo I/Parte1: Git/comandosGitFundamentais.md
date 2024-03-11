@@ -51,8 +51,18 @@ git status
 
 &nbsp;
 
-## Push
+## git push
 
 ```bash
 git push
+```
+
+* é usado para buscar as alterações do repositório remoto e mesclá-las automaticamente com o seu repositório local.
+
+&nbsp;
+
+## git clone
+
+```bash
+git clone
 ```
