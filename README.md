@@ -1,4 +1,3 @@
-
 # Programa de Bolsa Compass.Uol Ciência de Dados
 
 ## Modulos
