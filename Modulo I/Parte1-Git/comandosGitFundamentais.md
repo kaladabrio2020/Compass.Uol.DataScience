@@ -153,3 +153,57 @@ git mv <arquivo_atual> <novo_nome_ou_caminho>
    ```
    
    > Isso desfaz as alterações feitas no arquivo chamado `nome_do_arquivo`.
+
+&nbsp;
+
+## git reset
+
+* É uma ferramenta poderosa no Git que permite redefinir o estado do seu repositório para um commit específico. Ele tem várias opções e usos, mas basicamente permite desfazer commits, mover HEAD e atualizar o estado do índice (staging area) de acordo com diferentes modos de reset.
+
+
+
+1. **Desfazer commits**:
+   
+   Você pode usar `git reset` para desfazer commits e mover o ponteiro HEAD para um commit anterior. Por exemplo:
+   
+   ```bash
+   git reset --soft HEAD~1
+   ```
+   
+   > Isso desfaz o commit mais recente, mantendo as alterações no diretório de trabalho. As alterações desfazidas ficam na área de preparação (staging area), prontas para serem modificadas e recommitadas.
+
+2. **Desfazer commits e desfazer alterações no diretório de trabalho**:
+   
+   Se você deseja desfazer commits e também descartar as alterações no diretório de trabalho, pode usar:
+   
+   ```bash
+   git reset --hard HEAD~1
+   ```
+   
+   > Isso desfaz o commit mais recente e também descarta todas as alterações feitas no diretório de trabalho desde então.
+
+3. **Voltar para um commit específico**:
+   
+   Se você deseja voltar para um commit específico e descartar todos os commits feitos depois dele, você pode usar o hash do commit:
+   
+   ```bash
+   git reset --hard <hash_do_commit>`
+   ```
+   
+   > Substitua `<hash_do_commit>` pelo hash do commit para o qual você deseja voltar. Tenha cuidado ao usar `--hard`, pois ele descarta todas as alterações feitas após o commit especificado.
+
+4. **Mover HEAD sem modificar o diretório de trabalho ou a área de preparação**:
+   
+   Se você deseja apenas mover o ponteiro HEAD sem modificar o diretório de trabalho ou a área de preparação, pode usar:
+   
+   ```bash
+   git reset --soft <hash_do_commit>
+   ```
+   
+   > Isso move o HEAD para o commit especificado, mantendo as alterações no diretório de trabalho e na área de preparação.
+
+&nbsp;
+
+# .gitignore
+
+Um arquivo `.gitignore` é usado para especificar quais arquivos e diretórios o Git deve ignorar ao rastrear alterações em um projeto. Isso é útil quando há arquivos ou diretórios que você não deseja que sejam incluídos no controle de versão, como arquivos de compilação, arquivos temporários, arquivos de log, etc.
