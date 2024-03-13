@@ -6,9 +6,6 @@
 
 ## Módulos
 * ### [Módulo I](/Modulo%20I%20/)
-  * Git
-    1. a 
-    2. a
 * ### [Módulo II]()
 * ### [Módulo III]()
 
