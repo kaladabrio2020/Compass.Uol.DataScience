@@ -65,4 +65,12 @@ git push
 
 ```bash
 git clone
+# clonar um repositorio
+git clone -b <branch> <URL_do_repositório>
 ```
+
+* é usado para criar uma cópia local de um repositório Git remoto. Ele é frequentemente usado quando você deseja começar a trabalhar em um projeto existente hospedado em um serviço como GitHub, GitLab, Bitbucket, entre outros.
+
+&nbsp;
+
+## git rm
