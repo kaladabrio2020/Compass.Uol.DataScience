@@ -7,7 +7,8 @@
 ## Módulos
 * ### [Módulo I](/Modulo%20I%20/)
   1. [`Comandos Importantes`](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
-  2. [`Branchs`](/Modulo%20I/Parte1-Git/branch.md)
+  2. [`Branchs`  ](/Modulo%20I/Parte1-Git/branch.md)
+  3. [`Git Pages`]()
 * ### [Módulo II]()
 * ### [Módulo III]()
 
