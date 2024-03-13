@@ -32,6 +32,10 @@ git branch -d <nome_do_branch>
 git checkout <nome_do_novo_branch>
 ```
 
-## 
+## Salvando na outra branch
+
+```bash
+ git push --set-upstream origin <branch-nova>
+```
 
 

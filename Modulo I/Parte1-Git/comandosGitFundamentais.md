@@ -159,9 +159,6 @@ git mv <arquivo_atual> <novo_nome_ou_caminho>
 ## git reset
 
 * É uma ferramenta poderosa no Git que permite redefinir o estado do seu repositório para um commit específico. Ele tem várias opções e usos, mas basicamente permite desfazer commits, mover HEAD e atualizar o estado do índice (staging area) de acordo com diferentes modos de reset.
-
-
-
 1. **Desfazer commits**:
    
    Você pode usar `git reset` para desfazer commits e mover o ponteiro HEAD para um commit anterior. Por exemplo:
