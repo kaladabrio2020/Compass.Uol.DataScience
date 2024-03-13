@@ -153,5 +153,3 @@ git mv <arquivo_atual> <novo_nome_ou_caminho>
    ```
    
    > Isso desfaz as alterações feitas no arquivo chamado `nome_do_arquivo`.
-
-1
