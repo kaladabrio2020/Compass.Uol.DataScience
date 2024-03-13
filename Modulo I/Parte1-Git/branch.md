@@ -29,5 +29,9 @@ git branch -d <nome_do_branch>
 ## Mudando de Branch
 
 ```bash
-git checkout -b <nome_do_novo_branch>
+git checkout <nome_do_novo_branch>
 ```
+
+## 
+
+
