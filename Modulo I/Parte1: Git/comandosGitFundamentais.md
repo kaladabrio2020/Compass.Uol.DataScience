@@ -33,6 +33,9 @@ git add .
 
 ```bash
 git commit -m "(-m)Mensagem"
+
+#Com esse comando não precisa usar o git add .
+git commit -a -m "mensagem"
 ```
 
 * Ele é usado para salvar as alterações feitas no seu repositório Git. Quando você faz um commit, está essencialmente criando um instantâneo das alterações no seu projeto em um determinado momento.
