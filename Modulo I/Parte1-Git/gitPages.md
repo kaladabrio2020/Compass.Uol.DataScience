@@ -1,0 +1,2 @@
+Git Pages é um serviço que permite hospedar sites estáticos diretamente de repositórios do Git, como GitHub, GitLab ou Bitbucket. Ele simplifica a publicação de páginas da web criadas com HTML, CSS e JavaScript, facilitando o compartilhamento de projetos, documentação ou portfólios online.
+Para usar o Git Pages, basta criar um repositório Git contendo o código do seu site estático e seguir algumas etapas simples para configurar o Git Pages. 
