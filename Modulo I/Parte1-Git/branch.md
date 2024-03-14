@@ -43,3 +43,41 @@ git merge <nome-branch-criada>
 ```
 
 * é um comando usado para integrar as alterações de uma branch para outra. Quando você quer incorporar as alterações de uma branch em outra, você usa o comando `git merge`
+
+## git stash
+
+O comando `git stash` é usado para temporariamente armazenar (ou "stashar") as mudanças locais em um diretório de trabalho limpo, permitindo que você trabalhe em outra tarefa ou branch sem precisar comitar as alterações atuais.
+
+Quando você usa `git stash`, as mudanças não comitadas são guardadas em uma área especial de stash. Isso é útil quando você precisa alternar rapidamente para outra tarefa ou branch sem fazer um commit das mudanças atuais.
+
+Aqui está um exemplo de como usar `git stash`:
+
+1. Faça alterações no seu diretório de trabalho.
+2. Use o comando `git stash` para guardar as mudanças:
+
+```bash 
+git stash
+```
+
+3. Agora você pode alternar para outra branch ou realizar outras tarefas.
+4. Quando estiver pronto para retomar as mudanças guardadas, use `git stash apply`:
+
+```bash
+git stash apply
+```
+
+
+
+5. Se você deseja remover as mudanças do stash após aplicá-las, pode usar:
+
+```bash
+git stash drop
+```
+
+6.Ou você pode aplicar e remover as mudanças do stash de uma só vez usando:
+
+```bash
+git stash pop
+```
+
+
