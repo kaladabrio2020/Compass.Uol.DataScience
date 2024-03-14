@@ -55,7 +55,7 @@ Aqui está um exemplo de como usar `git stash`:
 1. Faça alterações no seu diretório de trabalho.
 2. Use o comando `git stash` para guardar as mudanças:
 
-```bash 
+```bash
 git stash
 ```
 
@@ -65,8 +65,6 @@ git stash
 ```bash
 git stash apply
 ```
-
-
 
 5. Se você deseja remover as mudanças do stash após aplicá-las, pode usar:
 
@@ -80,4 +78,48 @@ git stash drop
 git stash pop
 ```
 
+&nbsp;
 
+## git tag
+
+O comando `git tag` é utilizado para adicionar, listar ou remover tags em um repositório Git. As tags são usadas para marcar pontos específicos na história do projeto, como lançamentos de versões.
+
+```bash
+git tag -a "nome da taga" -m "mensagem"
+```
+
+
+
+
+
+## git submodulo
+
+Os submódulos do Git são uma funcionalidade que permite incorporar um repositório Git dentro de outro repositório Git. Isso é útil quando você deseja incluir um projeto como uma parte de outro projeto maior.
+
+Para adicionar um submódulo a um repositório Git existente, você pode usar o seguinte comando:
+
+```bash
+git submodule add <URL_do_repositório> <caminho_local>
+```
+
+
+
+Por exemplo:
+
+```bash
+git submodule add https://github.com/example/submodule.git path/to/submodulegit submodule add https://github.com/example/submodule.git path/to/submodule
+```
+
+Esse comando adicionará o repositório `submodule` como um submódulo no diretório `path/to/submodule` dentro do seu repositório principal.
+
+Após adicionar um submódulo, você precisa confirmar as mudanças no repositório principal:
+
+```bash
+git commit -m "Adicionando submódulo
+```
+
+Para clonar um repositório principal junto com seus submódulos, você pode usar:
+
+```bash
+git clone --recurse-submodules <URL_do_repositório_principal>
+```
