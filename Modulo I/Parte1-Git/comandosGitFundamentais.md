@@ -204,3 +204,6 @@ git mv <arquivo_atual> <novo_nome_ou_caminho>
 # .gitignore
 
 Um arquivo `.gitignore` é usado para especificar quais arquivos e diretórios o Git deve ignorar ao rastrear alterações em um projeto. Isso é útil quando há arquivos ou diretórios que você não deseja que sejam incluídos no controle de versão, como arquivos de compilação, arquivos temporários, arquivos de log, etc.
+
+
+> Ta no branch `dontDelete`
