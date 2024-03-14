@@ -6,8 +6,6 @@ Um **"branch"** (ou "ramo", em português) em Git é essencialmente uma linha de
 
 * Cada nova features do projeto ficar em uma branch separado e no final as branches serão unidas
 
-
-
 ## Criando Branch
 
 ```bash
@@ -38,4 +36,10 @@ git checkout <nome_do_novo_branch>
  git push --set-upstream origin <branch-nova>
 ```
 
+## Unindo branchs
 
+```bash
+git merge <nome-branch-criada>
+```
+
+* é um comando usado para integrar as alterações de uma branch para outra. Quando você quer incorporar as alterações de uma branch em outra, você usa o comando `git merge`
