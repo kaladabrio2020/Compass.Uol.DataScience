@@ -85,7 +85,7 @@ git stash pop
 O comando `git tag` é utilizado para adicionar, listar ou remover tags em um repositório Git. As tags são usadas para marcar pontos específicos na história do projeto, como lançamentos de versões.
 
 ```bash
-git tag -a "nome da taga" -m "mensagem"
+git git tag -a "nome da taga" -m "mensagem"
 ```
 
 
@@ -101,8 +101,6 @@ Para adicionar um submódulo a um repositório Git existente, você pode usar o 
 ```bash
 git submodule add <URL_do_repositório> <caminho_local>
 ```
-
-
 
 Por exemplo:
 
@@ -123,3 +121,25 @@ Para clonar um repositório principal junto com seus submódulos, você pode usa
 ```bash
 git clone --recurse-submodules <URL_do_repositório_principal>
 ```
+
+
+
+## git diff
+
+```bash
+git diff
+```
+
+O comando `git diff` é usado para mostrar as diferenças entre áreas diferentes no seu repositório Git
+
+
+
+
+
+## git shortlog
+
+```bash
+git shortlog
+```
+
+* Resume os logs

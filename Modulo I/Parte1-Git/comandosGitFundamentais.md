@@ -201,13 +201,75 @@ git mv <arquivo_atual> <novo_nome_ou_caminho>
 
 &nbsp;
 
+## git clean
+
+```bash
+git clean -f
+```
+
+* Comando `git clean` é usado para remover arquivos não rastreados do seu diretório de trabalho. Arquivos não rastreados são aqueles que estão presentes no seu sistema de arquivos local, mas não estão sendo rastreados pelo Git (ou seja, não foram adicionados ao repositório).
+
+&nbsp;
+
+## git gc
+
+```bash
+git gc
+```
+
+* O comando `git gc`, que significa "Git Garbage Collection", é utilizado para executar a coleta de lixo (garbage collection) no repositório Git. O principal objetivo da coleta de lixo é otimizar e limpar os objetos não utilizados no repositório, reduzindo assim o tamanho do banco de dados do Git e melhorando o desempenho.
+
+&nbsp;
+
+## git fsck
+
+```bash
+git fsck
+```
+
+* O comando `git fsck` (File System Check) é usado para verificar a integridade do banco de dados do repositório Git. Ele verifica se os objetos no banco de dados do Git estão consistentes e corretos, identificando e reportando quaisquer problemas que possam existir.
+  
+  + Objetos corrompidos ou danificados.
+  - Objetos não referenciados que estão presentes no banco de dados, mas não estão sendo utilizados por nenhum branch ou tag.
+  - Conexões quebradas entre objetos.
+
+&nbsp;
+
+## git reflog
+
+```bash
+git reflog
+```
+
+* comando `git reflog` é uma ferramenta útil no Git que registra referências de log, ou seja, mantém um registro de todas as operações HEAD e atualizações de referência que aconteceram no repositório. Ele é especialmente útil quando você precisa recuperar commits "perdidos" ou referências que foram alteradas ou removidas acidentalmente.
+
+&nbsp;
+
+# Commit
+
+* Padronizar os commit para que o projeto cresca de forma saudavel
+
+* Commits sem sentido atrapalha o projeto
+
+## Branch com commit ruins
+
+* `private branchs`  : não sera compartilhado para o repositorio so e salvo localmente
+
+## Melhorar o commit
+
+* Assunto  no maximo 50 caracteres
+
+* Separar o assunto do corpo da mensangam
+
+* Letra minuscula
+
+```bash
+git commit -m "titulo 
+>> <mensagem-objetiva>"
+```
+
+&nbsp;
+
 # .gitignore
 
 Um arquivo `.gitignore` é usado para especificar quais arquivos e diretórios o Git deve ignorar ao rastrear alterações em um projeto. Isso é útil quando há arquivos ou diretórios que você não deseja que sejam incluídos no controle de versão, como arquivos de compilação, arquivos temporários, arquivos de log, etc.
-
-
-versão 1 
-
-versão 3
-
-v4
