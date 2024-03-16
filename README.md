@@ -10,7 +10,8 @@
     1. [`Comandos Importantes`](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
     2. [`Branchs`  ](/Modulo%20I/Parte1-Git/branch.md)
     3. [`Meu git Page`](https://kaladabrio2020.github.io/)
-
+  * #### [Sql](/Modulo%20I/Parte2-Sql/)
+      1. [Inicio]()
 * ### [Módulo II]()
 * ### [Módulo III]()
 
