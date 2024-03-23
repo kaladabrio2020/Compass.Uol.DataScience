@@ -35,6 +35,11 @@ Existem dois tipos principais de particionamento de dados em Apache Spark:
    - Este método envolve a divisão dos dados em partições com base em intervalos de valores de uma determinada coluna.
    - É útil quando você deseja manter os dados ordenados dentro de cada partição, como em operações de classificação ou quando os dados são consultados com base em uma faixa específica de valores.
 
+
+## join
+![img](img/sql.png)
+
+
 ## Sql
 
 Consigo usar comandos sqls no filter

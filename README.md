@@ -15,8 +15,11 @@
 ### [Python](/Modulo%20I/Parte3-Python)
   * [*`Comando que não tinha conhecimento`*](/Modulo%20I/Parte3-Python/comandoQueNaoSabia.ipynb)
 ### [PySpark](/Modulo%20I/Parte5-Spark/)
-  * [*`Spark`*](/Modulo%20I/Parte5-Spark/spark.md)
+  * [*`Spark md`*](/Modulo%20I/Parte5-Spark/markdown/spark.md)
+  * [*`Spark Comandos md`*](/Modulo%20I/Parte5-Spark/markdown/SparkTerminal.md)
   * [*`PySpark Aprendendo Comandos`*](/Modulo%20I/Parte5-Spark/AprendendoSpark.ipynb)
+  * [*`PySpark no databricks`*](/Modulo%20I/Parte5-Spark/AprendendoNoDataBricks.ipynb)
+  * [*`Spark Sql no databricks`*](/Modulo%20I/Parte5-Spark/SparkSql.ipynb)
 
 &nbsp;
 ## [Módulo II]()
