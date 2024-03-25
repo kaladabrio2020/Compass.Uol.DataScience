@@ -25,9 +25,9 @@
 > [curriculo vitale](https://github.com/kaladabrio2020/kaladabrio2020.github.io/blob/main/curritulovitae/Mateus%20Sousa%20do%20Carmo.pdf)
 
 
-# Módulos
-## [Módulo I](/Modulo%20I%20/)
-### [**Projeto Modulo I**]()
+# Sprints
+## [Sprints 01](/Sprint%2001/)
+### [**Projeto  Sprints 01**](/Sprint%2001/Projeto/)
 > Não iniciado.
 
 #### [Git](/Modulo%20I/Parte1-Git/)
@@ -56,13 +56,13 @@
 
 
 &nbsp;
-## [Módulo II]()
-### [**Projeto Modulo II**]()
+## [Sprint 02]()
+### [**Projeto Sprint 02**]()
 > Não iniciado.
 
 &nbsp;
-## [Módulo III]()
-### [**Projeto Modulo III**]()
+## [Sprint 03]()
+### [**Projeto Sprint 03**]()
 > Não iniciado.
 
 cade a branch rapaz 
