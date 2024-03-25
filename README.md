@@ -14,9 +14,9 @@
 <div>
   <p>Tenho 22 anos faço Ciencia de Dados na Universidade Federal do Ceará, adoro machine learning e gosto de estudar muito Redes Neurais.</p>
   <p>Nas horas vagas que não são muitas gosto de jogar Apex Legends e jogar um futebol. Não tenho experiencia profissional mas participei de muitos projetos na faculdade e fora dela como:
-  &nbsp;<li>Projeto final do Bootcamp atlantico usamos redes neurais convulacionais para detectar cancer de mama</li>
-  &nbsp;<li>Projeto Cadkids aplicativo de cardeneta de vacinação , fiz tando o front quanto o back end da aplicação (projeto final da cadeira de Eng.Sofware)</li>
-  &nbsp;<li>Projeto final de Mineração de Dados no qual consistia pegar os dataset e usar algoritmos de classficação e regressão além do uso de redes neurais</li>
+  &nbsp;<li>Projeto final do Bootcamp atlantico usamos Redes Neurais Convulacionais para detectar cancer de mama;</li>
+  &nbsp;<li>Projeto Cadkids aplicativo de cardeneta de vacinação , fiz tanto o front=end quanto o back-end da aplicação (projeto final da cadeira de Eng.Sofware);</li>
+  &nbsp;<li>Projeto final de Mineração de Dados no qual consistia pegar os dataset e usar algoritmos de classficação e regressão além do uso de redes neurais;</li>
   </p>
 </div>
 
