@@ -19,7 +19,9 @@
   &nbsp;<li>Projeto final de Mineração de Dados no qual consistia pegar os dataset e usar algoritmos de classficação e regressão além do uso de redes neurais</li>
   </p>
 </div>
-> [Pode ver meu repo](https://github.com/kaladabrio2020?tab=repositories) 
+
+> [Repositorio](https://github.com/kaladabrio2020?tab=repositories) 
+
 > [curriculo vitale](https://github.com/kaladabrio2020/kaladabrio2020.github.io/blob/main/curritulovitae/Mateus%20Sousa%20do%20Carmo.pdf)
 
 
