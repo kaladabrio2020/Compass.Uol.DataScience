@@ -1,12 +1,22 @@
 <div align="center">
-  <img src="Img/ImgIlustrativa.png" height=450px width=800px"/>
+  <img src="Img/ImagenPerfil.png" style="border-radius:100px">
 </div>
+
+
+<div align="center" style="font-size: 20pt">
+  Mateus Sousa do Carmo
+</div>
+* Curso Ciência de Dados na Universidade Federal do Ceará , tenho 22 anos 
+
+* Gosto de jogar video games nas horas vagas , principalmente apex legends
 
 # Programa de Bolsa Compass.Uol Ciência de Dados
 
 # Módulos
 ## [Módulo I](/Modulo%20I%20/)
 ### [**Projeto Modulo I**]()
+> Não iniciado.
+
 #### [Git](/Modulo%20I/Parte1-Git/)
 * [*Comandos Importantes*](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
 * [*Branchs*](/Modulo%20I/Parte1-Git/branch.md)
@@ -34,10 +44,13 @@
 
 &nbsp;
 ## [Módulo II]()
-
+### [**Projeto Modulo II**]()
+> Não iniciado.
 
 &nbsp;
 ## [Módulo III]()
+### [**Projeto Modulo III**]()
+> Não iniciado.
 
 cade a branch rapaz 
 
