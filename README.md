@@ -8,27 +8,27 @@
 ## [Módulo I](/Modulo%20I%20/)
 ### [**Projeto Modulo I**]()
 #### [Git](/Modulo%20I/Parte1-Git/)
-* [*`Comandos Importantes`*](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
-* [*`Branchs`*](/Modulo%20I/Parte1-Git/branch.md)
-* [*`Meu git Page`*](https://kaladabrio2020.github.io/)
+* [*Comandos Importantes*](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
+* [*Branchs*](/Modulo%20I/Parte1-Git/branch.md)
+* [*Meu git Page*](https://kaladabrio2020.github.io/)
 
 #### [Sql](/Modulo%20I/Parte2-Sql/)
-* [*`Aprendendo Comandos`*](/Modulo%20I/Parte2-Sql/ComandosImportantes.md)
+* [*Aprendendo Comandos*](/Modulo%20I/Parte2-Sql/ComandosImportantes.md)
 
 #### [Python](/Modulo%20I/Parte3-Python)
-* [*`Comando que não tinha conhecimento`*](/Modulo%20I/Parte3-Python/comandoQueNaoSabia.ipynb)
+* [*Comando que não tinha conhecimento*](/Modulo%20I/Parte3-Python/comandoQueNaoSabia.ipynb)
 
 #### [PySpark](/Modulo%20I/Parte5-Spark/)
-* [*`Spark md`*](/Modulo%20I/Parte5-Spark/markdown/spark.md)
-* [*`Spark Comandos md`*](/Modulo%20I/Parte5-Spark/markdown/SparkTerminal.md)
-* [*`PySpark Aprendendo Comandos`*](/Modulo%20I/Parte5-Spark/AprendendoSpark.ipynb)
-* [*`PySpark no databricks`*](/Modulo%20I/Parte5-Spark/AprendendoNoDataBricks.ipynb)
-* [*`Spark Sql no databricks`*](/Modulo%20I/Parte5-Spark/SparkSql.ipynb)
+* [*Spark md*](/Modulo%20I/Parte5-Spark/markdown/spark.md)
+* [*Spark Comandos md*](/Modulo%20I/Parte5-Spark/markdown/SparkTerminal.md)
+* [*PySpark Aprendendo Comandos*](/Modulo%20I/Parte5-Spark/AprendendoSpark.ipynb)
+* [*PySpark no databricks*](/Modulo%20I/Parte5-Spark/AprendendoNoDataBricks.ipynb)
+* [*Spark Sql no databricks*](/Modulo%20I/Parte5-Spark/SparkSql.ipynb)
 
 #### [Estatistica](/Modulo%20I/Parte6-Estatistica/)
-* [*`Medidas`*](/Modulo%20I/Parte6-Estatistica/Medidas.ipynb)
-* [*`Medidas de Associação`*](/Modulo%20I/Parte6-Estatistica/MedidasAssociação.ipynb)
-* [*`Regressão Linear`*](/Modulo%20I/Parte6-Estatistica/RegressãoLinear.ipynb)
+* [*Medidas*](/Modulo%20I/Parte6-Estatistica/Medidas.ipynb)
+* [*Medidas de Associação*](/Modulo%20I/Parte6-Estatistica/MedidasAssociação.ipynb)
+* [*Regressão Linear*](/Modulo%20I/Parte6-Estatistica/RegressãoLinear.ipynb)
 
 
 
