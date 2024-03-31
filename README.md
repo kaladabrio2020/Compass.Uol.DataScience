@@ -29,8 +29,8 @@
 
 # Sprints
 ## [Sprints 01](/Sprint%2001/)
-### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01.ipynb)
-> Não iniciado.
+### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/)
+> [Desafio](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb).
 
 #### [Git](/Modulo%20I/Parte1-Git/)
 * [*Comandos Importantes*](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
