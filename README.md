@@ -29,21 +29,13 @@
 
 # Sprints
 ## [Sprints 01](/Sprint%2001/)
-### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb).
-
-#### Git
+### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb)
 * [**Git**](/Sprint%2001/Parte1-Git/)
-#### Sql
 * [**SQL**](/Sprint%2001/Parte2-Sql/)
-
-#### Python
 * [**Python**](/Sprint%2001/Parte3-Python/)
-
-#### PySpark
 * [**Pyspark**](/Sprint%2001/Parte5-Spark/)
-
-#### Estatistica
 * [**Estatistica**](/Sprint%2001/Parte6-Estatistica/)
+* [**Estatistica Em Python**](/Sprint%2001/Parte7-EstatisticaParaADemPython/)
 
 
 &nbsp;
