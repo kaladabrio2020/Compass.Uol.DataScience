@@ -30,30 +30,20 @@
 # Sprints
 ## [Sprints 01](/Sprint%2001/)
 ### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb).
-### Meu progresso
-#### Git
-* [*Comandos Importantes*](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
-* [*Branchs*](/Modulo%20I/Parte1-Git/branch.md)
-* [*Meu git Page*](https://kaladabrio2020.github.io/)
 
+#### Git
+* [**Git**](/Sprint%2001/Parte1-Git/)
 #### Sql
-* [*Aprendendo Comandos*](/Modulo%20I/Parte2-Sql/ComandosImportantes.md)
+* [**SQL**](/Sprint%2001/Parte2-Sql/)
 
 #### Python
-* [*Comando que não tinha conhecimento*](/Modulo%20I/Parte3-Python/comandoQueNaoSabia.ipynb)
+* [**Python**](/Sprint%2001/Parte3-Python/)
 
 #### PySpark
-* [*Spark md*](/Modulo%20I/Parte5-Spark/markdown/spark.md)
-* [*Spark Comandos md*](/Modulo%20I/Parte5-Spark/markdown/SparkTerminal.md)
-* [*PySpark Aprendendo Comandos*](/Modulo%20I/Parte5-Spark/AprendendoSpark.ipynb)
-* [*PySpark no databricks*](/Modulo%20I/Parte5-Spark/AprendendoNoDataBricks.ipynb)
-* [*Spark Sql no databricks*](/Modulo%20I/Parte5-Spark/SparkSql.ipynb)
+* [**Pyspark**](/Sprint%2001/Parte5-Spark/)
 
 #### Estatistica
-* [*Medidas*](/Modulo%20I/Parte6-Estatistica/Medidas.ipynb)
-* [*Medidas de Associação*](/Modulo%20I/Parte6-Estatistica/MedidasAssociação.ipynb)
-* [*Regressão Linear*](/Modulo%20I/Parte6-Estatistica/RegressãoLinear.ipynb)
-
+* [**Estatistica**](/Sprint%2001/Parte6-Estatistica/)
 
 
 &nbsp;
