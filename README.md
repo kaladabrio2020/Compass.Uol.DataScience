@@ -29,9 +29,8 @@
 
 # Sprints
 ## [Sprints 01](/Sprint%2001/)
-### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/)
-> [Desafio](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb).
-
+### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb).
+### Meu progresso;
 #### [Git](/Modulo%20I/Parte1-Git/)
 * [*Comandos Importantes*](/Modulo%20I/Parte1-Git/comandosGitFundamentais.md)
 * [*Branchs*](/Modulo%20I/Parte1-Git/branch.md)
