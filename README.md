@@ -8,34 +8,39 @@
 
 
 <div align="center">
-  <h2>Mateus Sousa do Carmo</h2>
- 
+  <h2>Olá, meu chamo Mateus Sousa</h2>
+
 </div>
+
 <div>
-  <p>Tenho 22 anos faço Ciencia de Dados na Universidade Federal do Ceará, adoro machine learning e gosto de estudar muito Redes Neurais.</p>
-  <p>Nas horas vagas que não são muitas gosto de jogar Apex Legends e jogar um futebol. Não tenho experiencia profissional mas participei de muitos projetos na faculdade e fora dela como:
+
+  <p>Tenho 22 anos faço Ciencia de Dados na Universidade Federal do Ceará(UFC), adoro estudar Machine Learning e Otimização.</p>
+  <p>Nas horas vagas que não são muitas gosto de jogar Apex Legends e jogar um futebol com os amigos. Não tenho experiencia profissional mas participei de muitos projetos na faculdade e fora dela como:
   &nbsp;<li>Projeto final do Bootcamp atlantico usamos Redes Neurais Convulacionais para detectar cancer de mama;</li>
-  &nbsp;<li>Projeto Cadkids aplicativo de cardeneta de vacinação , fiz tanto o front=end quanto o back-end da aplicação (projeto final da cadeira de Eng.Sofware);</li>
-  &nbsp;<li>Projeto final de Mineração de Dados no qual consistia pegar os dataset e usar algoritmos de classficação e regressão além do uso de redes neurais;</li>
+  &nbsp;<li>Projeto Cadkids aplicativo de cardeneta de vacinação , fiz tanto o Front-end quanto o Back-end da aplicação (projeto final da cadeira de Eng.Sofware);</li>
+  &nbsp;<li>Trabalho Final de Mineração de Dados no qual consistia pegar os dataset e usar algoritmos de classficação e regressão, usando do Scikit-learn e tensorflow;</li>
   </p>
 </div>
 
-> [Repositorio](https://github.com/kaladabrio2020?tab=repositories) 
+> [Meu repositorio](https://github.com/kaladabrio2020?tab=repositories) 
 
-> [curriculo vitale](https://github.com/kaladabrio2020/kaladabrio2020.github.io/blob/main/curritulovitae/Mateus%20Sousa%20do%20Carmo.pdf)
+> [Curriculo Vitale](https://github.com/kaladabrio2020/kaladabrio2020.github.io/blob/main/curritulovitae/Mateus%20Sousa%20do%20Carmo.pdf)
 
 
 &nbsp;
 
 # Sprints
 ## [Sprints 01](/Sprint%2001/)
-### [**Projeto  Sprints 01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01-Desafio.ipynb)
+### [**PROJETO  SPRINT01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01.ipynb)
+
+#### Meu progresso na trilha 
 * [**Git**](/Sprint%2001/Parte1-Git/)
 * [**SQL**](/Sprint%2001/Parte2-Sql/)
 * [**Python**](/Sprint%2001/Parte3-Python/)
 * [**Pyspark**](/Sprint%2001/Parte5-Spark/)
 * [**Estatistica**](/Sprint%2001/Parte6-Estatistica/)
 * [**Estatistica Em Python**](/Sprint%2001/Parte7-EstatisticaParaADemPython/)
+> Está dividida em pastas pois são muitos arquivos.
 
 
 &nbsp;
