@@ -45,8 +45,8 @@
 
 &nbsp;
 ## [Sprint 02]()
-### [**Projeto Sprint 02**]()
-> Não iniciado.
+### [**PROJETO SPRINT 02**]()
+
 
 &nbsp;
 ## [Sprint 03]()
