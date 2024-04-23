@@ -31,7 +31,7 @@
 
 # Sprints
 ## [Sprints 01](/Sprint%2001/)
-### [**PROJETO  SPRINT01**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01.ipynb)
+### [**<u>PROJETO  SPRINT01</u>**](/Sprint%2001/ProjetoSprint01/ProjetoSprint01.ipynb)
 
 #### Meu progresso na trilha 
 * [**Git**](/Sprint%2001/Parte1-Git/)
@@ -45,7 +45,7 @@
 
 &nbsp;
 ## [Sprint 02]()
-### [**PROJETO SPRINT 02**]()
+### [**<u>PROJETO SPRINT 02</u>**]()
 
 
 &nbsp;
